@@ -1,4 +1,3 @@
-# mymeddy_app
 # MyMedBuddy - Personal Health & Medication Manager
 
 ## Features
