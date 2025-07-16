@@ -21,4 +21,4 @@
 3. Run `flutter run`
 
 ## Git Repository
-[Insert your git repository link here]
+https://github.com/Cisco798/MyMeddyApp.git
